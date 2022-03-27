@@ -1,0 +1,375 @@
+{
+    "Supermercados": [
+        {
+            "Nombre": "Eroski",
+            "Dirección": "c/Titán pastor,11, Muro María",
+            "Coordenadas":[
+                "43°24'66.1 N",
+                "56°11'89.1 E"
+
+            ],
+            "Secciones": [
+                {
+                    "seccion": "Carnicería",
+                    "productos": [
+                        {
+                            "nombre": "Pollo",
+                            "descripcion": "pollo fresco marca Coren",
+                            "precioOferta": 5,
+                            "periodoVigencia": "24/03/22 a 01/05/22",
+                            "precioSinOferta": 6.5,
+                            "unidades": 1,
+                            "unidadMedida": "kilogramos",
+                            "adquiridoPreviamente": true
+                        },
+                        {
+                            "nombre": "Hamburguesa",
+                            "descripcion": "carne mixta cerdo/ternera",
+                            "precioOferta": 6,
+                            "periodoVigencia": "24/03/22 a 01/05/22",
+                            "precioSinOferta": 7.5,
+                            "unidades": 4,
+                            "unidadMedida": "unidad",
+                            "adquiridoPreviamente": true
+                        },
+                        {
+                            "nombre": "Zorza",
+                            "descripcion": "carne de cerdo troceada y macerada en pimentón y aceite",
+                            "precioOferta": 5.5,
+                            "periodoVigencia": "24/03/22 a 01/05/22",
+                            "precioSinOferta": 8,
+                            "unidades": 0.5,
+                            "unidadMedida": "kilogramos",
+                            "adquiridoPreviamente": false
+                        }
+                    ]
+                },
+                {
+                    "seccion": "Frutería",
+                    "productos": [
+                        {
+                            "nombre": "Manzana",
+                            "descripcion": "gran Smith, manzana verde ácida",
+                            "precioOferta": 1.85,
+                            "periodoVigencia": "24/03/22 a 01/05/22",
+                            "precioSinOferta": 2.60,
+                            "unidades": 1,
+                            "unidadMedida": "kilogramos",
+                            "adquiridoPreviamente": true
+                        },
+                        {
+                            "nombre": "Plátano",
+                            "descripcion": "plátano de Canarias",
+                            "precioOferta": 2.3,
+                            "periodoVigencia": "24/03/22 a 01/05/22",
+                            "precioSinOferta": 3.2,
+                            "unidades": 1,
+                            "unidadMedida": "kilogramos",
+                            "adquiridoPreviamente": true
+                        },
+                        {
+                            "nombre": "Aguacate",
+                            "descripcion": "aguacate origen mexicano",
+                            "precioOferta": 4.5,
+                            "periodoVigencia": "24/03/22 a 01/05/22",
+                            "precioSinOferta": 6,
+                            "unidades": 1,
+                            "unidadMedida": "kilogramos",
+                            "adquiridoPreviamente": true
+                        }
+                    ]
+                },
+                {
+                    "seccion": "Congelados",
+                    "productos": [
+                        {
+                            "nombre": "Empanadillas de atún",
+                            "descripcion": "empanadillas atún marca La Cocinera, envase 350g",
+                            "precioOferta": 2,
+                            "periodoVigencia": "24/03/22 a 01/05/22",
+                            "precioSinOferta": 3.5,
+                            "unidades": 1,
+                            "unidadMedida": "unidad",
+                            "adquiridoPreviamente": true
+                        },
+                        {
+                            "nombre": "Helado cheesecake",
+                            "descripcion": "Helado sabor tarta de queso marca Haggendazs, tarrina 500g",
+                            "precioOferta": 4.5,
+                            "periodoVigencia": "24/03/22 a 01/05/22",
+                            "precioSinOferta": 6,
+                            "unidades": 1,
+                            "unidadMedida": "unidad",
+                            "adquiridoPreviamente": true
+                        },
+                        {
+                            "nombre": "Corazón merluza",
+                            "descripcion": "corazones de merluza marca pescanova",
+                            "precioOferta": 5,
+                            "periodoVigencia": "24/03/22 a 01/05/22",
+                            "precioSinOferta": 7.12,
+                            "unidades": 1,
+                            "unidadMedida": "kilogramos",
+                            "adquiridoPreviamente": false
+                        }
+                    ]
+                },
+                {
+                    "seccion": "Charcutería",
+                    "productos": [
+                        {
+                            "nombre": "Chorizo",
+                            "descripcion": "chorizo picante marca revilla",
+                            "precioOferta": 8.5,
+                            "periodoVigencia": "24/03/22 a 01/05/22",
+                            "precioSinOferta": 11,
+                            "unidades": 0.2,
+                            "unidadMedida": "kilogramos",
+                            "adquiridoPreviamente": true
+                        },
+                        {
+                            "nombre": "Jamón serrano",
+                            "descripcion": "jamón serrano marca coren",
+                            "precioOferta": 8.99,
+                            "periodoVigencia": "24/03/22 a 01/05/22",
+                            "precioSinOferta": 12,
+                            "unidades": 0.1,
+                            "unidadMedida": "kilogramos",
+                            "adquiridoPreviamente": true
+                        },
+                        {
+                            "nombre": "Mortadela",
+                            "descripcion": "mortadela sin aceitunas marca El pozo",
+                            "precioOferta": 3.5,
+                            "periodoVigencia": "24/03/22 a 01/05/22",
+                            "precioSinOferta": 4.5,
+                            "unidades": 0.2,
+                            "unidadMedida": "kilogramos",
+                            "adquiridoPreviamente": true
+                        }
+                    ]
+                },
+                {
+                    "seccion": "Refrigerados",
+                    "productos": [
+                        {
+                            "nombre": "Mantequilla",
+                            "descripcion": "mantequilla con sal marca Larsa, tarrina 200g",
+                            "precioOferta": 1.99,
+                            "periodoVigencia": "24/03/22 a 01/05/22",
+                            "precioSinOferta": 2.55,
+                            "unidades": 1,
+                            "unidadMedida": "unidad",
+                            "adquiridoPreviamente": false
+                        },
+                        {
+                            "nombre": "Yogur bifidus",
+                            "descripcion": "yogur con trocitos marca activia, pack 4 unidades",
+                            "precioOferta": 1.65,
+                            "periodoVigencia": "24/03/22 a 01/05/22",
+                            "precioSinOferta": 2,
+                            "unidades": 1,
+                            "unidadMedida": "unidad",
+                            "adquiridoPreviamente": true
+                        },
+                        {
+                            "nombre": "Salmón ahumado",
+                            "descripcion": "Salmón ahumado noruego marca Eroski, 200g",
+                            "precioOferta": 4.99,
+                            "periodoVigencia": "24/03/22 a 01/05/22",
+                            "precioSinOferta": 6.99,
+                            "unidades": 1,
+                            "unidadMedida": "unidad",
+                            "adquiridoPreviamente": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Nombre": "Gadis",
+            "Dirección": "c/Ackerman, 25, Muro Rose",
+            "Coordenadas":[
+                "38°24'66.5 N",
+                "6°18'36.8 E"],
+            
+            "Secciones": [
+                {
+                    "seccion": "Carnicería",
+                    "productos": [
+                        {
+                            "nombre": "Pollo",
+                            "descripcion": "pollo criado con castañas",
+                            "precioOferta": 6,
+                            "periodoVigencia": "25/03/2022 a 04/04/2022",
+                            "precioSinOferta": "8.5",
+                            "unidades": 1,
+                            "unidadMedida": "kilogramos",
+                            "adquiridoPreviamente":true
+                        },
+                        {
+                            "nombre": "Zorza",
+                            "descripcion": "carne de pollo macerada con pimentón y aceite, elaboración propia",
+                            "precioOferta": 5,
+                            "periodoVigencia": "25/03/2022 a 04/04/2022",
+                            "precioSinOferta": 6.5,
+                            "unidades": 1,
+                            "unidadMedida": "kilogramos" ,
+                            "adquiridoPreviamente": true
+                        },
+                        {
+                            "nombre": "Hamburguesa",
+                            "descripcion": "hamburguesa de ternera gallega cat.A, elaboración propia" ,
+                            "precioOferta": 7 ,
+                            "periodoVigencia": "25/03/2022 a 04/04/2022",
+                            "precioSinOferta": 9,
+                            "unidades": 0.75,
+                            "unidadMedida": "kilogramos",
+                            "adquiridoPreviamente": true
+                        }
+                    ]
+                },
+                {
+                    "seccion": "Frutería",
+                    "productos": [
+                        {
+                            "nombre": "Manzana" ,
+                            "descripcion": "manzana golden, nacional",
+                            "precioOferta": 1.85,
+                            "periodoVigencia": "25/03/2022 a 04/04/2022",
+                            "precioSinOferta": 2.29,
+                            "unidades": 1,
+                            "unidadMedida": "kilogramos",
+                            "adquiridoPreviamente": false
+                        },
+                        {
+                            "nombre": "Plátano" ,
+                            "descripcion": "plátano de Canarias",
+                            "precioOferta": 1.99,
+                            "periodoVigencia": "25/03/2022 a 04/04/2022",
+                            "precioSinOferta": 3.50,
+                            "unidades": 1,
+                            "unidadMedida": "kilogramos",
+                            "adquiridoPreviamente": true
+                        },
+                        {
+                            "nombre": "Aguacate",
+                            "descripcion": "aguacate origen gallego",
+                            "precioOferta": 3.5,
+                            "periodoVigencia": "25/03/2022 a 04/04/2022",
+                            "precioSinOferta": 4.5,
+                            "unidades":1 ,
+                            "unidadMedida": "kilogramos" ,
+                            "adquiridoPreviamente": false
+                        }
+                    ]
+                },
+                {
+                    "seccion": "Congelados",
+                    "productos": [
+                        {
+                            "nombre": "Empanadillas de atún",
+                            "descripcion": "empanadillas de atún marca blanca, 200g",
+                            "precioOferta": 1,
+                            "periodoVigencia": "25/03/2022 a 04/04/2022",
+                            "precioSinOferta": 1.5,
+                            "unidades": 1,
+                            "unidadMedida": "unidad",
+                            "adquiridoPreviamente": false
+                        },
+                        {
+                            "nombre": "Corazón merluza",
+                            "descripcion": "corazones de merluza, origen Sudáfrica, al peso",
+                            "precioOferta": 6 ,
+                            "periodoVigencia": "25/03/2022 a 04/04/2022" ,
+                            "precioSinOferta": 8.5 ,
+                            "unidades": 1 ,
+                            "unidadMedida": "kilogramos" ,
+                            "adquiridoPreviamente": true
+                        },
+                        {
+                            "nombre": "Helado cheesecake",
+                            "descripcion": "helado sabor tarta de queso marca blanca, tarrina 500g",
+                            "precioOferta": 2.5 ,
+                            "periodoVigencia": "25/03/2022 a 04/04/2022",
+                            "precioSinOferta": 3.5,
+                            "unidades": 1,
+                            "unidadMedida": "unidad",
+                            "adquiridoPreviamente": true
+                        }
+                    ]
+                },
+                {
+                    "seccion": "Charcutería",
+                    "productos": [
+                        {
+                            "nombre": "Chorizo",
+                            "descripcion": "chorizo dulce marca revilla" ,
+                            "precioOferta": 8,
+                            "periodoVigencia": "25/03/2022 a 04/04/2022",
+                            "precioSinOferta": 8.99,
+                            "unidades": 0.2,
+                            "unidadMedida": "kilogramos",
+                            "adquiridoPreviamente": true
+                        },
+                        {
+                            "nombre": "Jamón serrano",
+                            "descripcion": "jamón serrano marca blanca",
+                            "precioOferta": 9 ,
+                            "periodoVigencia": "25/03/2022 a 04/04/2022",
+                            "precioSinOferta": 13.5,
+                            "unidades": 0.2 ,
+                            "unidadMedida": "kilogramos",
+                            "adquiridoPreviamente": false
+                        },
+                        {
+                            "nombre": "Mortadela",
+                            "descripcion": "mortadela de pavo con aceitunas marca Campofrío",
+                            "precioOferta": 4,
+                            "periodoVigencia": "25/03/2022 a 04/04/2022",
+                            "precioSinOferta": 5.5,
+                            "unidades": 0.3,
+                            "unidadMedida": "kilogramos",
+                            "adquiridoPreviamente": true
+                        }
+                    ]
+                },
+                {
+                    "seccion": "Refrigerados",
+                    "productos": [
+                        {
+                            "nombre": "Mantequilla",
+                            "descripcion": "mantequilla con sal marca Asturiana, tarrina 200g" ,
+                            "precioOferta": 1.99,
+                            "periodoVigencia": "25/03/2022 a 04/04/2022",
+                            "precioSinOferta": 2.59,
+                            "unidades": 1,
+                            "unidadMedida": "unidad",
+                            "adquiridoPreviamente": true
+                        },
+                        {
+                            "nombre": "Salmón ahumado",
+                            "descripcion": "salmón ahumado noruego marca blanca, 150g",
+                            "precioOferta": 3.99,
+                            "periodoVigencia": "25/03/2022 a 04/04/2022",
+                            "precioSinOferta": 4.63,
+                            "unidades": 1,
+                            "unidadMedida": "unidad",
+                            "adquiridoPreviamente": true
+                        },
+                        {
+                            "nombre": "Yogur bifidus",
+                            "descripcion": "yogur con trocitos marca blanca, 4 unidades",
+                            "precioOferta": 0.89 ,
+                            "periodoVigencia": "25/03/2022 a 04/04/2022",
+                            "precioSinOferta": 1.29,
+                            "unidades": 1,
+                            "unidadMedida": "unidad",
+                            "adquiridoPreviamente": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

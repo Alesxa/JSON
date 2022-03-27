@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+
+        <input type="text" id="buscadorSupermercados">
+        <input type="button" value="Buscar" onclick="Buscar()">
+
+        
+
+    <div > 
+        <ul id="Resultados">
+
+        </ul>
+    </div>
+    <script>
+        let supermercados=[]
+        fetch('./supermercados.json')
+  .then(response => response.json())
+  .then(data => {console.log(data)
+  supermercados=data.Supermercados
+  })
+  .catch(error => console.log(error));
+  function Buscar(e){
+      console.log("Buscar")
+    let textoBusqueda=document.getElementById('buscadorSupermercados').value.toUpperCase();
+    console.log(supermercados)
+    let Resultados=document.getElementById('Resultados')
+    Resultados.innerHTML=""
+    for(let supermercado of supermercados ){
+        for(let seccion of supermercado.Secciones){
+            for(let producto of seccion.productos){
+                if (producto.nombre.toUpperCase().includes(textoBusqueda)){
+                    console.log(producto)
+                    let li = document.createElement("li");
+                    let div = document.createElement("div");
+                    let header = document.createElement("h2");
+                    let p = document.createElement("p");
+                    let pPrecio=document.createElement("p")
+                    let pSin=document.createElement("p")
+                    let pVigencia=document.createElement("p")
+                    let pUnidades=document.createElement("p")
+                    let pUnidadMedida=document.createElement("p")
+                    let pAdquirido=document.createElement("p")
+                    header.append(producto.nombre)
+                    p.append(producto.descripcion)
+                    div.append(header)
+                    div.append(p)
+                    pPrecio.append("Oferta "+producto.precioOferta+" Euros")
+                    div.append(pPrecio)
+                    pSin.append("Precio habitual "+producto.precioSinOferta+" Euros")
+                    div.append(pSin)
+                    pVigencia.append("Periodo oferta "+producto.periodoVigencia)
+                    div.append(pVigencia)
+                    pUnidades.append("Unidades "+producto.unidades)
+                    div.append(pUnidades)
+                    pUnidadMedida.append("Unidad de medida "+producto.unidadMedida)
+                    div.append(pUnidadMedida)
+                    pAdquirido.append(producto.adquiridoPreviamente?"Ya comprado":"No comprado")
+                    div.append(pAdquirido)
+
+
+                    li.append(div)
+                    Resultados.append(li)
+                }
+
+            }
+        }
+    }
+    return false
+  }
+
+
+    </script>
+    
+
+</body>
+</html>
