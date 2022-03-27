@@ -12,31 +12,31 @@
             <element>
                <productos>
                   <element>
-                     <precioOferta>5</precioOferta>
                      <adquiridoPreviamente>true</adquiridoPreviamente>
                      <descripcion>pollo fresco marca Coren</descripcion>
                      <nombre>Pollo</nombre>
                      <periodoVigencia>24/03/22 a 01/05/22</periodoVigencia>
+                     <precioOferta>5</precioOferta>
                      <precioSinOferta>6.5</precioSinOferta>
                      <unidadMedida>kilogramos</unidadMedida>
                      <unidades>1</unidades>
                   </element>
                   <element>
-                     <precioOferta>6</precioOferta>
                      <adquiridoPreviamente>true</adquiridoPreviamente>
                      <descripcion>carne mixta cerdo/ternera</descripcion>
                      <nombre>Hamburguesa</nombre>
                      <periodoVigencia>24/03/22 a 01/05/22</periodoVigencia>
+                     <precioOferta>6</precioOferta>
                      <precioSinOferta>7.5</precioSinOferta>
                      <unidadMedida>unidad</unidadMedida>
                      <unidades>4</unidades>
                   </element>
                   <element>
-                     <precioOferta>5.5</precioOferta>
                      <adquiridoPreviamente>false</adquiridoPreviamente>
                      <descripcion>carne de cerdo troceada y macerada en pimentón y aceite</descripcion>
                      <nombre>Zorza</nombre>
                      <periodoVigencia>24/03/22 a 01/05/22</periodoVigencia>
+                     <precioOferta>5.5</precioOferta>
                      <precioSinOferta>8</precioSinOferta>
                      <unidadMedida>kilogramos</unidadMedida>
                      <unidades>0.5</unidades>
@@ -47,31 +47,31 @@
             <element>
                <productos>
                   <element>
-                     <precioOferta>1.85</precioOferta>
                      <adquiridoPreviamente>true</adquiridoPreviamente>
                      <descripcion>gran Smith, manzana verde ácida</descripcion>
                      <nombre>Manzana</nombre>
                      <periodoVigencia>24/03/22 a 01/05/22</periodoVigencia>
+                     <precioOferta>1.85</precioOferta>
                      <precioSinOferta>2.6</precioSinOferta>
                      <unidadMedida>kilogramos</unidadMedida>
                      <unidades>1</unidades>
                   </element>
                   <element>
-                     <precioOferta>2.3</precioOferta>
                      <adquiridoPreviamente>true</adquiridoPreviamente>
                      <descripcion>plátano de Canarias</descripcion>
                      <nombre>Plátano</nombre>
                      <periodoVigencia>24/03/22 a 01/05/22</periodoVigencia>
+                     <precioOferta>2.3</precioOferta>
                      <precioSinOferta>3.2</precioSinOferta>
                      <unidadMedida>kilogramos</unidadMedida>
                      <unidades>1</unidades>
                   </element>
                   <element>
-                     <precioOferta>4.5</precioOferta>
                      <adquiridoPreviamente>true</adquiridoPreviamente>
                      <descripcion>aguacate origen mexicano</descripcion>
                      <nombre>Aguacate</nombre>
                      <periodoVigencia>24/03/22 a 01/05/22</periodoVigencia>
+                     <precioOferta>4.5</precioOferta>
                      <precioSinOferta>6</precioSinOferta>
                      <unidadMedida>kilogramos</unidadMedida>
                      <unidades>1</unidades>
@@ -82,31 +82,31 @@
             <element>
                <productos>
                   <element>
-                     <precioOferta>2</precioOferta>
                      <adquiridoPreviamente>true</adquiridoPreviamente>
                      <descripcion>empanadillas atún marca La Cocinera, envase 350g</descripcion>
                      <nombre>Empanadillas de atún</nombre>
                      <periodoVigencia>24/03/22 a 01/05/22</periodoVigencia>
+                     <precioOferta>2</precioOferta>
                      <precioSinOferta>3.5</precioSinOferta>
                      <unidadMedida>unidad</unidadMedida>
                      <unidades>1</unidades>
                   </element>
                   <element>
-                     <precioOferta>4.5</precioOferta>
                      <adquiridoPreviamente>true</adquiridoPreviamente>
                      <descripcion>Helado sabor tarta de queso marca Haggendazs, tarrina 500g</descripcion>
                      <nombre>Helado cheesecake</nombre>
                      <periodoVigencia>24/03/22 a 01/05/22</periodoVigencia>
+                     <precioOferta>4.5</precioOferta>
                      <precioSinOferta>6</precioSinOferta>
                      <unidadMedida>unidad</unidadMedida>
                      <unidades>1</unidades>
                   </element>
                   <element>
-                     <precioOferta>5</precioOferta>
                      <adquiridoPreviamente>false</adquiridoPreviamente>
                      <descripcion>corazones de merluza marca pescanova</descripcion>
                      <nombre>Corazón merluza</nombre>
                      <periodoVigencia>24/03/22 a 01/05/22</periodoVigencia>
+                     <precioOferta>5</precioOferta>
                      <precioSinOferta>7.12</precioSinOferta>
                      <unidadMedida>kilogramos</unidadMedida>
                      <unidades>1</unidades>
@@ -117,31 +117,31 @@
             <element>
                <productos>
                   <element>
-                     <precioOferta>8.5</precioOferta>
                      <adquiridoPreviamente>true</adquiridoPreviamente>
                      <descripcion>chorizo picante marca revilla</descripcion>
                      <nombre>Chorizo</nombre>
                      <periodoVigencia>24/03/22 a 01/05/22</periodoVigencia>
+                     <precioOferta>8.5</precioOferta>
                      <precioSinOferta>11</precioSinOferta>
                      <unidadMedida>kilogramos</unidadMedida>
                      <unidades>0.2</unidades>
                   </element>
                   <element>
-                     <precioOferta>8.99</precioOferta>
                      <adquiridoPreviamente>true</adquiridoPreviamente>
                      <descripcion>jamón serrano marca coren</descripcion>
                      <nombre>Jamón serrano</nombre>
                      <periodoVigencia>24/03/22 a 01/05/22</periodoVigencia>
+                     <precioOferta>8.99</precioOferta>
                      <precioSinOferta>12</precioSinOferta>
                      <unidadMedida>kilogramos</unidadMedida>
                      <unidades>0.1</unidades>
                   </element>
                   <element>
-                     <precioOferta>3.5</precioOferta>
                      <adquiridoPreviamente>true</adquiridoPreviamente>
                      <descripcion>mortadela sin aceitunas marca El pozo</descripcion>
                      <nombre>Mortadela</nombre>
                      <periodoVigencia>24/03/22 a 01/05/22</periodoVigencia>
+                     <precioOferta>3.5</precioOferta>
                      <precioSinOferta>4.5</precioSinOferta>
                      <unidadMedida>kilogramos</unidadMedida>
                      <unidades>0.2</unidades>
@@ -152,31 +152,31 @@
             <element>
                <productos>
                   <element>
-                     <precioOferta>1.99</precioOferta>
                      <adquiridoPreviamente>false</adquiridoPreviamente>
                      <descripcion>mantequilla con sal marca Larsa, tarrina 200g</descripcion>
                      <nombre>Mantequilla</nombre>
                      <periodoVigencia>24/03/22 a 01/05/22</periodoVigencia>
+                     <precioOferta>1.99</precioOferta>
                      <precioSinOferta>2.55</precioSinOferta>
                      <unidadMedida>unidad</unidadMedida>
                      <unidades>1</unidades>
                   </element>
                   <element>
-                     <precioOferta>1.65</precioOferta>
                      <adquiridoPreviamente>true</adquiridoPreviamente>
                      <descripcion>yogur con trocitos marca activia, pack 4 unidades</descripcion>
                      <nombre>Yogur bifidus</nombre>
                      <periodoVigencia>24/03/22 a 01/05/22</periodoVigencia>
+                     <precioOferta>1.65</precioOferta>
                      <precioSinOferta>2</precioSinOferta>
                      <unidadMedida>unidad</unidadMedida>
                      <unidades>1</unidades>
                   </element>
                   <element>
-                     <precioOferta>4.99</precioOferta>
                      <adquiridoPreviamente>false</adquiridoPreviamente>
                      <descripcion>Salmón ahumado noruego marca Eroski, 200g</descripcion>
                      <nombre>Salmón ahumado</nombre>
                      <periodoVigencia>24/03/22 a 01/05/22</periodoVigencia>
+                     <precioOferta>4.99</precioOferta>
                      <precioSinOferta>6.99</precioSinOferta>
                      <unidadMedida>unidad</unidadMedida>
                      <unidades>1</unidades>
@@ -197,31 +197,31 @@
             <element>
                <productos>
                   <element>
-                     <precioOferta>6</precioOferta>
                      <adquiridoPreviamente>true</adquiridoPreviamente>
                      <descripcion>pollo criado con castañas</descripcion>
                      <nombre>Pollo</nombre>
                      <periodoVigencia>25/03/2022 a 04/04/2022</periodoVigencia>
+                     <precioOferta>6</precioOferta>
                      <precioSinOferta>8.5</precioSinOferta>
                      <unidadMedida>kilogramos</unidadMedida>
                      <unidades>1</unidades>
                   </element>
                   <element>
-                     <precioOferta>5</precioOferta>
                      <adquiridoPreviamente>true</adquiridoPreviamente>
                      <descripcion>carne de pollo macerada con pimentón y aceite, elaboración propia</descripcion>
                      <nombre>Zorza</nombre>
                      <periodoVigencia>25/03/2022 a 04/04/2022</periodoVigencia>
+                     <precioOferta>5</precioOferta>
                      <precioSinOferta>6.5</precioSinOferta>
                      <unidadMedida>kilogramos</unidadMedida>
                      <unidades>1</unidades>
                   </element>
                   <element>
-                     <precioOferta>7</precioOferta>
                      <adquiridoPreviamente>true</adquiridoPreviamente>
                      <descripcion>hamburguesa de ternera gallega cat.A, elaboración propia</descripcion>
                      <nombre>Hamburguesa</nombre>
                      <periodoVigencia>25/03/2022 a 04/04/2022</periodoVigencia>
+                     <precioOferta>7</precioOferta>
                      <precioSinOferta>9</precioSinOferta>
                      <unidadMedida>kilogramos</unidadMedida>
                      <unidades>0.75</unidades>
@@ -232,31 +232,31 @@
             <element>
                <productos>
                   <element>
-                     <precioOferta>1.85</precioOferta>
                      <adquiridoPreviamente>false</adquiridoPreviamente>
                      <descripcion>manzana golden, nacional</descripcion>
                      <nombre>Manzana</nombre>
                      <periodoVigencia>25/03/2022 a 04/04/2022</periodoVigencia>
+                     <precioOferta>1.85</precioOferta>
                      <precioSinOferta>2.29</precioSinOferta>
                      <unidadMedida>kilogramos</unidadMedida>
                      <unidades>1</unidades>
                   </element>
                   <element>
-                     <precioOferta>1.99</precioOferta>
                      <adquiridoPreviamente>true</adquiridoPreviamente>
                      <descripcion>plátano de Canarias</descripcion>
                      <nombre>Plátano</nombre>
                      <periodoVigencia>25/03/2022 a 04/04/2022</periodoVigencia>
+                     <precioOferta>1.99</precioOferta>
                      <precioSinOferta>3.5</precioSinOferta>
                      <unidadMedida>kilogramos</unidadMedida>
                      <unidades>1</unidades>
                   </element>
                   <element>
-                     <precioOferta>3.5</precioOferta>
                      <adquiridoPreviamente>false</adquiridoPreviamente>
                      <descripcion>aguacate origen gallego</descripcion>
                      <nombre>Aguacate</nombre>
                      <periodoVigencia>25/03/2022 a 04/04/2022</periodoVigencia>
+                     <precioOferta>3.5</precioOferta>
                      <precioSinOferta>4.5</precioSinOferta>
                      <unidadMedida>kilogramos</unidadMedida>
                      <unidades>1</unidades>
@@ -267,31 +267,31 @@
             <element>
                <productos>
                   <element>
-                     <precioOferta>1</precioOferta>
                      <adquiridoPreviamente>false</adquiridoPreviamente>
                      <descripcion>empanadillas de atún marca blanca, 200g</descripcion>
                      <nombre>Empanadillas de atún</nombre>
                      <periodoVigencia>25/03/2022 a 04/04/2022</periodoVigencia>
+                     <precioOferta>1</precioOferta>
                      <precioSinOferta>1.5</precioSinOferta>
                      <unidadMedida>unidad</unidadMedida>
                      <unidades>1</unidades>
                   </element>
                   <element>
-                     <precioOferta>6</precioOferta>
                      <adquiridoPreviamente>true</adquiridoPreviamente>
                      <descripcion>corazones de merluza, origen Sudáfrica, al peso</descripcion>
                      <nombre>Corazón merluza</nombre>
                      <periodoVigencia>25/03/2022 a 04/04/2022</periodoVigencia>
+                     <precioOferta>6</precioOferta>
                      <precioSinOferta>8.5</precioSinOferta>
                      <unidadMedida>kilogramos</unidadMedida>
                      <unidades>1</unidades>
                   </element>
                   <element>
-                     <precioOferta>2.5</precioOferta>
                      <adquiridoPreviamente>true</adquiridoPreviamente>
                      <descripcion>helado sabor tarta de queso marca blanca, tarrina 500g</descripcion>
                      <nombre>Helado cheesecake</nombre>
                      <periodoVigencia>25/03/2022 a 04/04/2022</periodoVigencia>
+                     <precioOferta>2.5</precioOferta>
                      <precioSinOferta>3.5</precioSinOferta>
                      <unidadMedida>unidad</unidadMedida>
                      <unidades>1</unidades>
@@ -302,31 +302,31 @@
             <element>
                <productos>
                   <element>
-                     <precioOferta>8</precioOferta>
                      <adquiridoPreviamente>true</adquiridoPreviamente>
                      <descripcion>chorizo dulce marca revilla</descripcion>
                      <nombre>Chorizo</nombre>
                      <periodoVigencia>25/03/2022 a 04/04/2022</periodoVigencia>
+                     <precioOferta>8</precioOferta>
                      <precioSinOferta>8.99</precioSinOferta>
                      <unidadMedida>kilogramos</unidadMedida>
                      <unidades>0.2</unidades>
                   </element>
                   <element>
-                     <precioOferta>9</precioOferta>
                      <adquiridoPreviamente>false</adquiridoPreviamente>
                      <descripcion>jamón serrano marca blanca</descripcion>
                      <nombre>Jamón serrano</nombre>
                      <periodoVigencia>25/03/2022 a 04/04/2022</periodoVigencia>
+                     <precioOferta>9</precioOferta>
                      <precioSinOferta>13.5</precioSinOferta>
                      <unidadMedida>kilogramos</unidadMedida>
                      <unidades>0.2</unidades>
                   </element>
                   <element>
-                     <precioOferta>4</precioOferta>
                      <adquiridoPreviamente>true</adquiridoPreviamente>
                      <descripcion>mortadela de pavo con aceitunas marca Campofrío</descripcion>
                      <nombre>Mortadela</nombre>
                      <periodoVigencia>25/03/2022 a 04/04/2022</periodoVigencia>
+                     <precioOferta>4</precioOferta>
                      <precioSinOferta>5.5</precioSinOferta>
                      <unidadMedida>kilogramos</unidadMedida>
                      <unidades>0.3</unidades>
@@ -337,31 +337,31 @@
             <element>
                <productos>
                   <element>
-                     <precioOferta>1.99</precioOferta>
                      <adquiridoPreviamente>true</adquiridoPreviamente>
                      <descripcion>mantequilla con sal marca Asturiana, tarrina 200g</descripcion>
                      <nombre>Mantequilla</nombre>
                      <periodoVigencia>25/03/2022 a 04/04/2022</periodoVigencia>
+                     <precioOferta>1.99</precioOferta>
                      <precioSinOferta>2.59</precioSinOferta>
                      <unidadMedida>unidad</unidadMedida>
                      <unidades>1</unidades>
                   </element>
                   <element>
-                     <precioOferta>3.99</precioOferta>
                      <adquiridoPreviamente>true</adquiridoPreviamente>
                      <descripcion>salmón ahumado noruego marca blanca, 150g</descripcion>
                      <nombre>Salmón ahumado</nombre>
                      <periodoVigencia>25/03/2022 a 04/04/2022</periodoVigencia>
+                     <precioOferta>3.99</precioOferta>
                      <precioSinOferta>4.63</precioSinOferta>
                      <unidadMedida>unidad</unidadMedida>
                      <unidades>1</unidades>
                   </element>
                   <element>
-                     <precioOferta>0.89</precioOferta>
                      <adquiridoPreviamente>true</adquiridoPreviamente>
                      <descripcion>yogur con trocitos marca blanca, 4 unidades</descripcion>
                      <nombre>Yogur bifidus</nombre>
                      <periodoVigencia>25/03/2022 a 04/04/2022</periodoVigencia>
+                     <precioOferta>0.89</precioOferta>
                      <precioSinOferta>1.29</precioSinOferta>
                      <unidadMedida>unidad</unidadMedida>
                      <unidades>1</unidades>
